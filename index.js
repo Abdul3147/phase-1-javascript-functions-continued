@@ -1,7 +1,8 @@
 // code your solution here
 
 
-    function saturdayFun(activity = "roller-skate") {
+    
+function saturdayFun(activity = "roller-skate") {
     return `This Saturday, I want to ${activity}!`;
 
 }
@@ -18,6 +19,5 @@ let wrapAdjective = function(flair = "*") {
             return `You are ${flair}${adjective}${flair}!`;
     }
 }
-
 
 
